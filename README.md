@@ -23,4 +23,4 @@
 同时为了能够简单的检测碰撞，还额外记录了矩形在X轴和Y轴上最大和最小的坐标，这样只要通过简单的比较，就可以判断两个房间是否重叠。
 
 ## 参考
-[unitu随机地图上传](http://www.mcatin.com/#/article?id=202008031EWW1EU54AJFY0KOTTI60X8)
+[unity随机地图上传](http://www.mcatin.com/#/article?id=202008031EWW1EU54AJFY0KOTTI60X8)
